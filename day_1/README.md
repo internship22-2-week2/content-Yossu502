@@ -32,3 +32,21 @@ Clase llamada desde el *index.js*
 4. Por ultimo se creo una clase igual a la de Promise All que lo unico que cambiaba era el metodo que se ejecutaba
 
 ![Foto clase Promise Race](../assets/PromiseRace.png)
+
+
+### Actividades de promesas
+
+Para esta actividad se aplico el concepto de de POO 
+
+1. Se crearon cada una de las entidades segun el diagrama de clases original.
+
+Clase DispositivoEntrada, Raton y Teclado
+
+![Foto de la clase 1](../assets/clase1.png)
+
+Clase Computadora y monitor
+![Foto de la clase 1](../assets/clase2.png)
+
+
+Clase Orden, que es la clase que donde se originan las ordenes y se inicia el programa.
+![Foto de la clase 1](../assets/clase2.png)
