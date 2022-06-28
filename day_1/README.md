@@ -45,8 +45,10 @@ Clase DispositivoEntrada, Raton y Teclado
 ![Foto de la clase 1](../assets/clase1.png)
 
 Clase Computadora y monitor
+
 ![Foto de la clase 1](../assets/clase2.png)
 
 
 Clase Orden, que es la clase que donde se originan las ordenes y se inicia el programa.
+
 ![Foto de la clase 1](../assets/clase2.png)
